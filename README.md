@@ -1,2 +1,2 @@
 # mon-projet
-Un exercice pour le cour sur github
+Un exercice pour le cours sur github
